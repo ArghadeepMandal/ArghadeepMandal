@@ -1,10 +1,38 @@
 Hi, 
-- myself Arghadeep Mandal
-- I’m the senior business analyst of Framysis in the strategy and management function ...
-- Passed out Chemical Engineer in 2017 from Jadavpur University  ...
-- Especially in data analysis and analytics in the project management domain. For the future, I'm practising in the data science domain ...
-- other than these I can also know about front-end development and advanced digital marketing...
-- Actually, this personal development I've gained for choosing to work with a start-up with proper value-adding techniques simply because I'm a skilled extracurricular performer with MBA knowledge ...
+# Arghadeep Mandal
+
+## Senior Business Analyst | Data Scientist | Project manager | Product manager
+
+- **Current Position:** Senior Business Analyst at Framysis, specializing in data analysis and analytics in the project management domain.
+
+- **Education:** 
+  - Bachelor of Technology in Chemical Engineering, Jadavpur University, 2017
+
+- **Skills:**
+  - Data Analysis
+  - Project Management
+  - Data Science
+  - Front-end Development
+  - Advanced Digital Marketing
+
+- **Professional Experience:**
+
+- **Projects:**
+  - SaaS model through AI and ML for a startup, Healthcare, Export and Import, and e-commerce clients for strategy and anlysis
+
+- **Certifications:**
+  - Python in Data Science by IIT Madras of NPTEL
+
+- **Personal Development:**
+  - Actively pursuing knowledge and practice in the data science domain.
+
+- **Extracurriculars:**
+  - District, state-level performer in painting, guitar and theatre, national and international nominee for our start-up and domain
+
+- **Contact:**
+  - Email: mailatarghadeep@gmail.com
+
+
 
 <!---
 ArghadeepMandal/ArghadeepMandal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
