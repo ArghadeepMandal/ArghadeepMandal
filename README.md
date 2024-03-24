@@ -12,16 +12,21 @@ Hi,
   - Data Analysis
   - Project Management
   - Data Science
-  - Front-end Development
+  - Data Visualization
   - Advanced Digital Marketing
 
 - **Professional Experience:**
 
 - **Projects:**
   - SaaS model through AI and ML for a startup, Healthcare, Export and Import, and e-commerce clients for strategy and anlysis
+  - Healthcare and entertainment industry-based projects related to strategy and analytics
+  - Export and import business zero to final stage of implementation in terms of data analysis and business analysis
+  - 10+ clinet served in differnt sector and domain
 
 - **Certifications:**
   - Python in Data Science by IIT Madras of NPTEL
+  - Junior project manager by BVOP
+  - Python for Data science from IBM
 
 - **Personal Development:**
   - Actively pursuing knowledge and practice in the data science domain.
